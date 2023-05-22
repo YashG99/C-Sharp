@@ -1,2 +1,3 @@
 # C-Sharp
-C# Concepts
+C# Concepts, including but not restricted to:
+1. OOPS concepts with code snippets and examples
